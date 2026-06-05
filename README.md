@@ -12,7 +12,7 @@ across 2 datasets, 15,225 records, and 40 automated checks.
 - **Total Failed Records:** 3,685
 
 ## Dashboard Visualizations
-![DQ Framework Dashboard](dq_dashboard.png)
+![DQ Framework Dashboard](https://raw.githubusercontent.com/rekhanjali310/databricks-data-quality-framework/main/dq_dashboard.png)
 
 ## DQ Dimensions Covered
 1. **Completeness** — Null value detection across all columns
